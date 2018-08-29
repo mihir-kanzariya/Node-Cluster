@@ -30,5 +30,5 @@ Once you clone or download project go into you folder
 ```
 > siege -r1000 -c10 http://localhost:3000/
 ```
-This command send 10 users continuously 1000 times. At the last you will see statistics and see the differences between `withcluster.js` and `withoutcluster.js`. 
+This command send 10 users continuously 1000 times. At the last you will see statistics and differences between `withcluster.js` and `withoutcluster.js`. 
 
